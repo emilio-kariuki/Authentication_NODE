@@ -6,7 +6,6 @@
   "scripts": {
     "start": "nodemon index",
     "dev": "nodemon index"
-
   },
   "repository": {
     "type": "git",
@@ -18,9 +17,7 @@
   "dependencies": {
     "dotenv": "^16.0.1",
     "express": "^4.18.1",
-    "mongoose": "^6.4.1"
-  },
-  "devDependencies": {
+    "mongoose": "^6.4.1",
     "nodemon": "^2.0.18"
   }
 }
