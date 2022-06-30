@@ -4,10 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon index",
+    "dev": "nodemon index"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilio-kariuki/Authentication_NODE"
   },
   "keywords": [],
-  "author": "",
+  "author": "emilio kariuki",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.1",
